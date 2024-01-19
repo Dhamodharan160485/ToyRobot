@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToyRobotApp": {
+      "commandName": "Project",
+      "commandLineArgs": "InputOne.txt InputTwo.txt"
+    }
+  }
+}
